@@ -54,8 +54,10 @@
 
 <p> ㅤ </p>
 <p> ㅤ </p>
-![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=palanpaper&theme=onedark)
 
+<div style="display: flex;">
+  <img src="https://github-profile-trophy.vercel.app/?username=palanpaper&theme=onedark" width="45%" />
+</div>
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=palanpaper&count_private=true&show_icons=true&theme=tokyonight" width="45%" />
   <a href="https://profile.codersrank.io/user/palanpaper/">
