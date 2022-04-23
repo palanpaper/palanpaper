@@ -3,6 +3,8 @@
 <h1 align="center">파란종이</h1>
 <p align="center">
   <b>Hello,World!!</b>
+</p>
+<p align="center">
   <b>I want to bacome developer</b>
 </p>
 
